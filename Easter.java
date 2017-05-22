@@ -1,7 +1,7 @@
 import java.lang.reflect.*;
 import java.util.Scanner;
 
-// TODO: add comments
+// add comments
 
 public class Easter
 {
